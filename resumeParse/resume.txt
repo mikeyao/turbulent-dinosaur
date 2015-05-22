@@ -1,0 +1,87 @@
+San Francisco, CA
+
+765-404-7858
+
+yaojunmike@gmail.com
+
+Strong​: Javascript, Python, Angular, Backbone, Node.js, Express.js, Firebase, Git, HTML
+
+Experienced​: MongoDb, MySQL, Ionic, CSS, D3, Grunt, OAuth, CoffeeScript, C
+
+Mike Yao
+
+TECHNICAL SKILLS
+
+linkedin.com/in/mikeyaotime
+
+github.com/mikeyao
+
+mikeyao.us/blog
+
+RECENT PROJECTS
+
+Thesis Project​| role | http://lifeisawesome.com
+
+Short description of project
+
+● 1
+
+● 2
+
+● 3
+
+● 4
+
+ThumbsCheck​| Product Owner | https://waffleup.firebaseapp.com
+
+Real-time classroom feedback and analytics tool
+
+● Translated instructor and students needs into product requirements, defined MVP
+
+● Designed instructor dashboard for quiz editing and results visualization using AngularJS
+
+● Enabled real-time updating and displaying results using Firebase
+
+● Codebase was adopted by 3 out of 8 classroom peer groups during Hack Reactor Legacy Project
+
+PickUp​| Full-stack Software Engineer | (insert deployed link)
+
+Location-enabled mobile app that allows users to find and RSVP pickup basketball games
+
+● Refactored desktop-based web app into mobile app using Ionic and Cordova
+
+● Deployed Express.js server and configured mobile app to hit RESTful API endpoints
+
+● Built front-end logic for authentication and updating scheduled games
+
+CaterMe​| Full-stack Software Engineer | (insert deployed link)
+
+A mobile-first app to facilitate self-organizing group catering order
+
+● Integrated Firebase authentication with Github OAuth
+
+● Utilized Zapier to automate Twilio text messaging upon trigger by Firebase data
+
+● (coming soon) Accept payments by integrating Stripe
+
+PROFESSIONAL EXPERIENCE
+
+Tesla Motors​| MES (Manufacturing Execution System) Software Engineer Intern
+
+● Implemented a web-based application using Javascript and MySQL to provide real-time monitoring
+
+throughout manufacturing process
+
+● Led a project that coordinated with vendors to deploy torque tool machine integration into
+
+assembly line (enabled increased scalability from 10 vehicles to 500 per week)
+
+EDUCATION
+
+Hack Reactor–Advanced Software Engineering Immersive 2015
+
+Purdue University – BSEE –Theta Tau Professional Engineering Fraternity 2013
+
+PERSONAL INTERESTS
+
+rock climbing, snowboarding, hiking, yoga, fluent in mandarin and shanghainese
