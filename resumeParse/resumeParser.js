@@ -14,7 +14,7 @@ exports.readResume = function(req,res){
   });
 };
 
-
+  
 var skills = skillsHelper.skillsMore;
 var skillsObj = {};
 skills.forEach(function(val,i){
@@ -38,13 +38,18 @@ exports.countSkills = function(req,res){
     // Iterate thru resumeWords
     for (var i = 0; i < resumeWords.length; i++){
       // if word in skills dictionary
-      if (skillsObj.hasOwnProperty(resumeWords[i])){
+      var word = resumeWords[i];
+      if (skillsObj.hasOwnProperty(word)){
         // if result already exist word as key
+        if (result.hasOwnProperty(word)){
           // yes: increment the counter
+          result[word] += 1;
+        } else {
           // no: initialize to be count as 1
+          result[word] = 1;
+        }
       }
     }
-
-    res.send(resumeWords);
+    res.send(result);
   });
 };
